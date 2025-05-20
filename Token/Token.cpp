@@ -11,7 +11,7 @@ const std::string& Token[23]()const{
      "="[13], "+"[14], "-"[15], "%"[16],
      "*"[17], ";"[18], "<"[19], ">"[20],
      "?"[21], "^"[22];
-}
+};
 
 /*Addresses*/
 const std::string& TAddress[6]()const{
@@ -21,7 +21,7 @@ const std::string& TAddress[6]()const{
     "@D?:STRING"[3],//directory address
     "@F"[4],//file address
     "@SFAXX"[5];//set file address
-}
+};
 
 /*Keywords*/
 const std::string& Keyword[45]()const{
@@ -56,5 +56,4 @@ const std::string& Keyword[45]()const{
   "unlocked"[28], 
   "plocked"[29], 
   "blocklean"[30];
-
-}
+};
