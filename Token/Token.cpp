@@ -24,7 +24,7 @@ const std::string& TAddress[6]()const{
 };
 
 /*Keywords*/
-const std::string& Keyword[45]()const{
+const std::string& Keyword[31]()const{
 "return"[0], 
   "numeric"[1], 
   "boolean"[2],
